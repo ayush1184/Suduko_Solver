@@ -24,8 +24,8 @@ Getting Started
 
 1.  **Clone the repository**:
 
-    `[git clone https://github.com/yourusername/sudoku-solver.git](https://github.com/ayush1184/Suduko_Solver.git)
-    cd sudoku-solver`
+    `[git clone https://github.com/yourusername/sudoku-solver.git](https://github.com/ayush1184/Suduko_Solver.git)`\
+    `cd sudoku-solver`
 
 2.  **Run the application**:
 
@@ -60,7 +60,7 @@ Feel free to fork this repository and customize it for your own needs. Happy puz
 
 ### Screenshots
 
-
+![](Screenshot.png)
 
 * * * * *
 
