@@ -67,9 +67,9 @@ class SudokuGUI:
                 self.entries[i][j].delete(0, tk.END)
                 self.entries[i][j].insert(0, str(self.board[i][j]))
                 if self.original_board[i][j] == 0:
-                    self.entries[i][j].config(fg='green')  # Change color of the new numbers to blue
+                    self.entries[i][j].config(fg='green')  # Change color of the new numbers to green
                 else:
-                    self.entries[i][j].config(fg='white')  # Original numbers remain black
+                    self.entries[i][j].config(fg='white')  # Original numbers remain white
 
     def move_up(self, event):
         row, col = self.active_cell
